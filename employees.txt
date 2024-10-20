@@ -1,0 +1,10 @@
+5001,admin,admin123,administrator
+1001,emp1,emp123546,employee
+1002,emp2,emp125,employee
+4001,manager1,manage123,manager
+1003,sarath,patti,employee
+1004,virat,virushka,employee
+1005,Pavan,56789,employee
+1006,NTR,Devara,employee
+4002,Prabas,bahubali,manager
+1010,Stark,tony,employee
