@@ -1,0 +1,1 @@
+I implemented a Grading system.In which there is a login page where faculty logs in and then grades the students who are enrolled in that faculty course,the faculty can give grades individually and also can give multiple students at a time
